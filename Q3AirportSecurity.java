@@ -41,7 +41,5 @@ public class Q3AirportSecurity {
         for(int e:ans){
             System.out.print(e +" ");
         }
-
-
     }
 }
